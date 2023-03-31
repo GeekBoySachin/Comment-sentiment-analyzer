@@ -1,0 +1,5 @@
+drivers
+logs
+.env
+.idea
+__pycache__
