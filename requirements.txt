@@ -13,3 +13,4 @@ webdriver-manager==3.8.5
 tensorflow==2.12.0
 transformers==4.27.4
 -e .
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
